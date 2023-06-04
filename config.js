@@ -50,7 +50,7 @@ module.exports = {
 
   ACR_S: "ytu3AdkCu7fkRVuENhXxs9jsOW4YJtDXimAWMpJp",
 
-  SUDO: process.env.SUDO || "917025994178",
+  SUDO: process.env.SUDO || "94742514900",
 
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || " ",
 
